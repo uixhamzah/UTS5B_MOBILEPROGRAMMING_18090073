@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">Tempat Pelayanan Kesehatan</string>
+    <string name="todo" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="apotek_klinik">Apotek/Klinik</string>
+    <string name="rumah_sakit">Rumah Sakit</string>
+    <string name="praktik_dokter">Praktik Dokter</string>
+    <string name="todo" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="toko_obat">Toko Obat</string>
+    <string name="todo" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="todo" translatable="false" tools:ignore="DuplicateDefinition">TODO</string>
+</resources>

@@ -1,0 +1,17 @@
+C:\AndroidStudioProjects\Tempat-Pelayanan-Kesehatan\app\src\main\java\com\azhar\tpk\activities\DetailLocationActivity.kt
+C:\AndroidStudioProjects\Tempat-Pelayanan-Kesehatan\app\src\main\java\com\azhar\tpk\data\model\ModelDetail.kt
+C:\AndroidStudioProjects\Tempat-Pelayanan-Kesehatan\app\src\main\java\com\azhar\tpk\networking\ApiClient.kt
+C:\AndroidStudioProjects\Tempat-Pelayanan-Kesehatan\app\src\main\java\com\azhar\tpk\data\model\ModelLocation.kt
+C:\AndroidStudioProjects\Tempat-Pelayanan-Kesehatan\app\src\main\java\com\azhar\tpk\adapter\MainAdapter.kt
+C:\AndroidStudioProjects\Tempat-Pelayanan-Kesehatan\app\src\main\java\com\azhar\tpk\activities\DoctorActivity.kt
+C:\AndroidStudioProjects\Tempat-Pelayanan-Kesehatan\app\src\main\java\com\azhar\tpk\utils\HitungJarak.kt
+C:\AndroidStudioProjects\Tempat-Pelayanan-Kesehatan\app\src\main\java\com\azhar\tpk\data\model\ModelResults.kt
+C:\AndroidStudioProjects\Tempat-Pelayanan-Kesehatan\app\src\main\java\com\azhar\tpk\activities\HospitalActivity.kt
+C:\AndroidStudioProjects\Tempat-Pelayanan-Kesehatan\app\src\main\java\com\azhar\tpk\data\response\ModelResultDetail.kt
+C:\AndroidStudioProjects\Tempat-Pelayanan-Kesehatan\app\src\main\java\com\azhar\tpk\activities\ClinicActivity.kt
+C:\AndroidStudioProjects\Tempat-Pelayanan-Kesehatan\app\src\main\java\com\azhar\tpk\data\response\ModelResultNearby.kt
+C:\AndroidStudioProjects\Tempat-Pelayanan-Kesehatan\app\src\main\java\com\azhar\tpk\data\model\ModelGeometry.kt
+C:\AndroidStudioProjects\Tempat-Pelayanan-Kesehatan\app\src\main\java\com\azhar\tpk\networking\ApiInterface.kt
+C:\AndroidStudioProjects\Tempat-Pelayanan-Kesehatan\app\src\main\java\com\azhar\tpk\activities\MainActivity.kt
+C:\AndroidStudioProjects\Tempat-Pelayanan-Kesehatan\app\src\main\java\com\azhar\tpk\viewmodel\ListResultViewModel.kt
+C:\AndroidStudioProjects\Tempat-Pelayanan-Kesehatan\app\src\main\java\com\azhar\tpk\activities\DrugStoreActivity.kt

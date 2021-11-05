@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.delight-im:Android-SimpleLocation:v1.1.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../caches/transforms-2/files-2.1/c5fe91c0196a0a79dadb9ddd1b8ce5d7/jetified-Android-SimpleLocation-v1.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../caches/transforms-3/3518c6677523dfef1f638bfdc3da2565/transformed/jetified-Android-SimpleLocation-v1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../caches/transforms-3/3518c6677523dfef1f638bfdc3da2565/transformed/jetified-Android-SimpleLocation-v1.1.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../caches/transforms-3/3518c6677523dfef1f638bfdc3da2565/transformed/jetified-Android-SimpleLocation-v1.1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../caches/modules-2/files-2.1/com.github.delight-im/Android-SimpleLocation/v1.1.0/50af74f651ab175547041da0b545d71db0c56639/Android-SimpleLocation-v1.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../caches/modules-2/files-2.1/com.github.delight-im/Android-SimpleLocation/v1.1.0/cc22fe19b9b0733003011b50f42ea1a00e14cb7b/Android-SimpleLocation-v1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
